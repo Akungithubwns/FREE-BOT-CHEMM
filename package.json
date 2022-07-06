@@ -2,10 +2,10 @@
   "name": "4lphab0t-Md",
   "version": "12.0.0",
   "description": "4lpha B0t Multi Device, Only update in YouTube ZEEONE OFC",
-  "main": "zeeone.js",
+  "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node zeeone.js"
+    "start": "node index.js"
    },
   "keywords": [
     "whatsapp",
